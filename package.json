@@ -27,5 +27,5 @@
     "eslint-plugin-import": "^2.16.0",
     "mocha": "^6.1.2",
     "sinon": "^7.3.2"
-  },
+  }
 }
