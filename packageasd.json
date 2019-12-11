@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "tpz-errors@2.3.5",
+      "C:\\xampp\\htdocs\\bureaus-api"
+    ]
+  ],
+  "_from": "tpz-errors@2.3.5",
+  "_id": "tpz-errors@2.3.5",
+  "_inBundle": false,
+  "_integrity": "sha512-SPbLSoN97jZOOqiRcbKjdSeJ5EG/2BUAjmmYy8Cd7Sqh/3n13f3k9vSkhOH1NKBrhfsJkauqNC5M3z933XzYuw==",
+  "_location": "/tpz-errors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "tpz-errors@2.3.5",
+    "name": "tpz-errors",
+    "escapedName": "tpz-errors",
+    "rawSpec": "2.3.5",
+    "saveSpec": null,
+    "fetchSpec": "2.3.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://repo.btfinanceira.com.br:8081/repository/npm/tpz-errors/-/tpz-errors-2.3.5.tgz",
+  "_spec": "2.3.5",
+  "_where": "C:\\xampp\\htdocs\\bureaus-api",
+  "author": "",
+  "dependencies": {
+    "http-status": "^1.3.2"
+  },
+  "description": "Módulo dedicado a padronizar os erros e tratamento de erros.",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "mocha": "^6.1.2",
+    "sinon": "^7.3.2"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tpz-errors",
+  "publishConfig": {
+    "registry": "http://repo.btfinanceira.com.br:8081/repository/npmtopazio/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.btfinanceira.com.br/packages-js/tpz-errors"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node .",
+    "test": "mocha"
+  },
+  "version": "2.3.5"
+}
