@@ -1,10 +1,10 @@
-# tpz-errors
+# jrz-errors
 
 Módulo dedicado a padronizar os erros e tratamento de erros.
 
 ## Instalação
 
-`npm install tpz-queue -P`
+`npm install jrz-errors`
 
 ## Utilização
 
