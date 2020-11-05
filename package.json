@@ -1,6 +1,6 @@
 {
   "name": "jrz-errors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Módulo dedicado a padronizar e tratar os erros",
   "main": "index.js",
   "directories": {
