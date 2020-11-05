@@ -1,6 +1,6 @@
 {
   "name": "jrz-errors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Módulo dedicado a padronizar e tratar os erros",
   "main": "index.js",
   "directories": {
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jonaszart@bitbucket.org/jonaszart/jrz-errors.git"
+    "url": "git+https://github.com/jrzart1/jrz-errors.git"
   },
   "author": "Jonas R. Zart",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jonaszart/jrz-errors#readme",
+  "homepage": "https://github.com/jrzart1/jrz-errors",
   "dependencies": {
     "http-status": "^1.3.2"
   },
